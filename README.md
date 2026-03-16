@@ -1,6 +1,5 @@
 <div align="center">
 
-# Euron
 ### AI-Powered Customer Support Copilot
 
 <p>
